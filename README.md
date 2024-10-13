@@ -1,6 +1,6 @@
 ## Hi there 👋
    I am Masahiro Ayata.  
-   I'm seeking projects where I can apply my Java, Python knowledge in building backend systems to make meaningful contribution.
+   I'm seeking projects where I can apply my Java and Python knowledge in building backend systems to make meaningful contribution.
 
 <!--
 **masahiro0000/masahiro0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
